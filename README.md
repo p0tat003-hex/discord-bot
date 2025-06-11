@@ -7,7 +7,8 @@ A small Discord bot created by me in **2023** for the German‑Jordanian Univers
 ## About the Discord Server
 
 - Managed by the **GJU IT Club** community with 150+ members.
-- Channel groups include **Welcome**, **Bootcamp**, and **Resources** (see sidebar screenshot above).
+- Channel groups include **Welcome**, **Bootcamp**, and **Resources**.
+![Sidebar screenshot showing Discord channel layout](discord-sidebar.png)
 - The sidebar is structured to help IT students easily find what matters:
   - **Roles** include majors, interests, and years—covering everything from AI/ML to Cybersecurity, Web, and App Development.
   - **Resources** include materials to help with exams, assignments, and curated roadmaps for different IT career paths.
